@@ -4,7 +4,7 @@
 
 # Udacity Project 1: Navigation
 
-# Introduction 
+## Introduction 
 
 For this project, you will train an agent to navigate (and collect bananas!) in a large, square world.  
 
@@ -20,7 +20,7 @@ The state space has 37 dimensions and contains the agent's velocity, along with 
 
 The task is episodic, and in order to solve the environment, your agent must get an average score of +13 over 100 consecutive episodes.
 
-### Getting Started
+## Getting Started
 
 - go to the folder chich will contain the repository
 
@@ -53,7 +53,7 @@ The task is episodic, and in order to solve the environment, your agent must get
 
     Place the file at the same level of this readme, and unzip (or decompress) the file. 
 
-### Instructions
+## Instructions
 
 - To launch the notebook:
 
